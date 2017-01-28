@@ -28,3 +28,8 @@ Merges the identical lines and any newly added lines. The ones removed
 from the initial commit result in a conflict. The branches merge into 
 the branch currently checked out.
 
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+Git`s auto merge will work only in cases with no conflicts. If there are
+conflicts it is best they are resolved by a person, rather than leaving
+a machine guess which version should be kept.
