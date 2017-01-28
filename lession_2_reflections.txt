@@ -13,3 +13,8 @@ logical change?
 By checking changes in previous commits and in the working directory
 you can be sure that only what you are interested in will be commited.
 
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+When trying to do experiments with new functionalities, but I want a 
+stable version as a backup.
+
