@@ -22,3 +22,9 @@ How do the diagrams help you visualize the branch structure?
 It is easy to visualize the branches as all starting from one initial
 commit.Also creating a branch from an old commit is reaaly cool.
 
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+Merges the identical lines and any newly added lines. The ones removed
+from the initial commit result in a conflict. The branches merge into 
+the branch currently checked out.
+
