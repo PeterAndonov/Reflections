@@ -18,3 +18,7 @@ history organized? How would branches help?
 When trying to do experiments with new functionalities, but I want a 
 stable version as a backup.
 
+How do the diagrams help you visualize the branch structure?
+It is easy to visualize the branches as all starting from one initial
+commit.Also creating a branch from an old commit is reaaly cool.
+
