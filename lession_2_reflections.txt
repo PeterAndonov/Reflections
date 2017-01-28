@@ -8,3 +8,8 @@ The staging area allows flexibility in choosing exactly which files
 should be included in a commit before actually doing it. It is a 
 temporary snapshot of what is about to be commited in the repository.
 
+How can you use the staging area to make sure you have one commit per 
+logical change?
+By checking changes in previous commits and in the working directory
+you can be sure that only what you are interested in will be commited.
+
